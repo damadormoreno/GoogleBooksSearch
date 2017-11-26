@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleBooksSearch</string>
+    <string name="search_hint">Buscar libros</string>
+    <string name="error">Se ha producido un error</string>
+</resources>
